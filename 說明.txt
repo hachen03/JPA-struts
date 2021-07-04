@@ -1,0 +1,9 @@
+gjun
+利用persistence.xml連線
+webapp用css規劃面板
+pom.xml裡面放mysql-connector & hibernate-core
+school
+利用hibernate.cfg.xml連線
+利用struts.xml連結頁面(配合Controller裡面的addAction)
+web.xml裡面要寫struts的內容
+pom.xml裡面放mysql-connector & hibernate core & struts-core
